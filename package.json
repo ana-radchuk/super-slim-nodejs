@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "super-slim-nodejs",
+  "description": "Use multi-stage to build super slim node.js docker images",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-radchuk/super-slim-nodejs.git"
+  },
+  "author": "Anastasia R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ana-radchuk/super-slim-nodejs/issues"
+  },
+  "homepage": "https://github.com/ana-radchuk/super-slim-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^17.3.1"
+  }
+}
